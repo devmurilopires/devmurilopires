@@ -39,7 +39,7 @@
 
 <div>
     <img 
-        align="left" 
+        align="center" 
         alt="Python" 
         title="Python"
         width="50px" 
@@ -47,19 +47,19 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
     <img 
-      align="left"
+      align="center"
       alt="Django"
       width="50px"
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
    <img
-      align="left"
+      align="center"
       alt="Django Rest Framework"
       width="90px"
       style="padding-right: 10px;"
       src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png"/>
     <img 
-        align="left" 
+        align="center" 
         alt="HTML"
         title="HTML" 
         width="50px" 
@@ -67,7 +67,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="CSS" 
         title="CSS"
         width="50px" 
@@ -75,7 +75,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="JavaScript" 
         title="JavaScript"
         width="50px" 
@@ -83,7 +83,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="Bootstrap"
         title="Bootstrap" 
         width="50px" 
@@ -91,7 +91,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="Git" 
         title="Git"
         width="50px" 
@@ -99,7 +99,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
     <img 
-    align="left"
+    align="center"
     alt="VsCode" 
     width="50px"
     style="padding-right: 10px;"
