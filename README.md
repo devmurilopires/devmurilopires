@@ -55,7 +55,7 @@
    <img
       align="left"
       alt="Django Rest Framework"
-      width="50px"
+      width="90px"
       style="padding-right: 10px;"
       src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png"/>
     <img 
