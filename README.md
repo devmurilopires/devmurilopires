@@ -46,18 +46,18 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
-    <img
-        align="left"
-        alt="DRF"
-        width="50px"
-        style="padding-right: 10px;"
-        src="https://unpkg.com/devicon@2.16.0/icons/django/django-plain.svg"/>
-    <img
-        align="left"
-        alt="Django"
-        width="50px"
-        style="padding-right: 10px;"
-        src="https://unpkg.com/devicon@2.16.0/icons/djangorest/djangorest-original-wordmark.svg"/>
+    <img 
+      align="left"
+      alt="Django"
+      width="50px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+   <img
+      align="left"
+      alt="Django Rest Framework"
+      width="50px"
+      style="padding-right: 10px;"
+      src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png"/>
     <img 
         align="left" 
         alt="HTML"
